@@ -1,6 +1,6 @@
 CPSC 335-02 
 Project 1: Cella Ant #x15
-Team Oranges: Anoosha Ahmed, Erik Truong, Dalisa Nguyen, Bijaya Shrestha
+Team Oranges: Anoosha Ahmed, Erik Truong, Dalisa Nguyen
 ---------------------------------------------------------------------------
 Intro:
 
